@@ -1,6 +1,5 @@
 # 💫 About Me:
-Currently, I am expanding my expertise in:<br><br>🤖 Artificial Intelligence<br><br>🌐 Full Stack Development<br><br>🗄 Backend Architecture & API Development<br><br>⚡ Database Design & Optimization
-
+Currently, I am expanding my expertise in:<br><br>🤖 Artificial Intelligence<br><br>🌐 Full Stack Development<br><br>🗄 Backend Architecture & API Development<br><br>⚡ Database Design & Optimization<br><br>Software Devlopment
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/vasaririshika9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vasari rishika) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vasari rishika9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vasaririshika9@gmail.com) https://vasaririshika9.github.io/PROTFOLIO/
